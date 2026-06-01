@@ -1,3 +1,11 @@
+---
+title: "PRD 056: Smoke Test Visualization Redesign"
+status: draft
+owner: Merv
+status_note: "Front-matter added 2026-05-31 (was prose-header only). Body reads as a draft/proposal on an in-flight feature branch."
+status_corrected: 2026-05-31
+---
+
 # PRD 056 — Smoke Test Visualization Redesign
 
 **Status:** draft
