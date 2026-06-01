@@ -1,6 +1,9 @@
 ---
 title: "PRD 034: SLM Validation — RFC 002 Experimental Proof"
-status: implemented
+status: in-progress
+owner: Merv
+status_note: "Corrected 2026-05-31: body shows Phase 4 IN PROGRESS and Gate 4 Part 2 blocked on ONNX/Windows; headline cost-reduction not yet validated in a real cognitive cycle."
+status_corrected: 2026-05-31
 date: "2026-03-28"
 tier: "standard"
 depends_on: ["030-pacta-cognitive-composition"]
