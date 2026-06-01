@@ -1,6 +1,9 @@
 ---
 title: "PRD 036: Cognitive Memory Architecture"
-status: implemented
+status: approved
+owner: Merv
+status_note: "Corrected 2026-05-31: body Implementation Status table lists all 4 phases as PENDING despite the prose header — not implemented."
+status_corrected: 2026-05-31
 date: "2026-03-29"
 tier: heavyweight
 depends_on: [30]
