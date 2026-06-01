@@ -2,7 +2,10 @@
 type: prd
 title: "PRD 044: Workspace Partition Architecture"
 date: "2026-03-31"
-status: implemented
+status: approved
+owner: Merv
+status_note: "Corrected 2026-05-31: document is written as an unexecuted proposal (future-tense phase plan; R-17 validation not run) — not implemented."
+status_corrected: 2026-05-31
 tier: heavyweight
 depends_on: [30, 43]
 enables: []

@@ -1,6 +1,9 @@
 ---
 title: "PRD 031: Cognitive Memory Module — RAG-Based Fact Cards for Agent Learning"
 status: implemented
+owner: Merv
+status_note: "Marked implemented but EXP-023 / learning-effect / token-overhead results are not recorded in-doc; cannot reach `validated` until metrics are captured."
+status_corrected: 2026-05-31
 date: "2026-03-27"
 tier: heavyweight
 depends_on: [30]
