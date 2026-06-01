@@ -1,6 +1,10 @@
 ---
 title: "PRD 037: Cognitive Affect & Exploration"
-status: implemented
+status: approved
+owner: Merv
+prd_type: research
+status_note: "Corrected 2026-05-31: body Implementation Status table lists all 4 phases as PENDING; validation experiments out of scope. Tracked as a research design (see prd_type)."
+status_corrected: 2026-05-31
 date: "2026-03-29"
 tier: standard
 depends_on: [30, 35]
