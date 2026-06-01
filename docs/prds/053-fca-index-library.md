@@ -4,6 +4,9 @@ id: "053"
 title: "@methodts/fca-index — FCA-Indexed Context Library"
 date: "2026-04-08"
 status: complete
+owner: Merv
+status_note: "Status `complete` but success criteria are contested in-doc (SC-1 walked back twice; AC-3 logged MISS then PASS; AC-5 deferred). Treat as `implemented`, not `validated`, pending reconciled metrics."
+status_corrected: 2026-05-31
 completed: "2026-04-08"
 branch: feat/053-fca-index-c2-index-store
 tests: 158/158
