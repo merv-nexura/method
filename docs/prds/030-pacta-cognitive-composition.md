@@ -1,6 +1,10 @@
 ---
 title: "PRD 030: Pacta Cognitive Composition"
-status: implemented
+status: approved
+owner: Merv
+prd_type: research
+status_note: "Corrected 2026-05-31: body Implementation Status table lists all 7 phases and both gates as PENDING — not implemented. Tracked as a research design (see prd_type)."
+status_corrected: 2026-05-31
 date: "2026-03-27"
 tier: heavyweight
 depends_on: [27, 28]
