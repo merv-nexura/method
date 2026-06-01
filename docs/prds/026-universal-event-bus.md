@@ -1,6 +1,9 @@
 ---
 title: "PRD 026: Universal Event Bus (UEB) — Bridge Event Backbone"
 status: implemented
+owner: Merv
+status_note: "Marked implemented but measured success-criteria outcomes are not recorded in-doc; per PRD_LIFECYCLE cannot reach `validated` until metrics are captured."
+status_corrected: 2026-05-31
 ---
 
 # PRD 026: Universal Event Bus (UEB) — Bridge Event Backbone
