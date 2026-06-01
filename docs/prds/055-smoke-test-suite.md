@@ -1,3 +1,11 @@
+---
+title: "PRD 055: Methodology Smoke Test Suite"
+status: implemented
+owner: Merv
+status_note: "Front-matter added 2026-05-31. Prose header claimed 'implemented', but PRD-056 reports master coverage was 0/17 methodology and 0/5 method features, so SC-1 ('every feature has a smoke test') was not met. Treat as implemented-with-gaps, not validated."
+status_corrected: 2026-05-31
+---
+
 # PRD 055 — Methodology Smoke Test Suite
 
 **Status:** implemented

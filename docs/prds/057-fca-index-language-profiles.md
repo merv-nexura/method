@@ -4,6 +4,8 @@ id: "057"
 title: "@methodts/fca-index — Language profiles (v0.4.0)"
 date: "2026-04-25"
 status: in-progress
+owner: Merv
+status_note: "Canonical PRD-057. The number formerly collided with the SLM Cascade PRD, which was renumbered to PRD-051 on 2026-05-31."
 branch: feat/fca-index-language-profiles
 tests: 286/286 (was 229/229 before this PRD)
 domains: [fca-index/scanner, fca-index/cli/manifest-reader]
